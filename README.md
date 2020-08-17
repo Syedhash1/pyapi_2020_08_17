@@ -27,3 +27,6 @@ how to install Python and Python3 using apt.
 add the line from vim
 
 add the line after new pull
+
+last line 
+
