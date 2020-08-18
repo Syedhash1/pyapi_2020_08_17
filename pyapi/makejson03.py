@@ -32,6 +32,6 @@ def main():
     ## write code to
     ## display the last server in row3
 
-if __name__ == "__main__"
+if __name__ == "__main__":
     main()
 
