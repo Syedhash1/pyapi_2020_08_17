@@ -1,0 +1,90 @@
+A Game of Thrones, pages - 694
+	API URL -> https://www.anapioficeandfire.com/api/books/1
+
+	ISBN -> 978-0553103540
+
+	PUBLISHER -> Bantam Books
+
+	No. of CHARACTERS -> 434
+
+A Clash of Kings, pages - 768
+	API URL -> https://www.anapioficeandfire.com/api/books/2
+
+	ISBN -> 978-0553108033
+
+	PUBLISHER -> Bantam Books
+
+	No. of CHARACTERS -> 778
+
+A Storm of Swords, pages - 992
+	API URL -> https://www.anapioficeandfire.com/api/books/3
+
+	ISBN -> 978-0553106633
+
+	PUBLISHER -> Bantam Books
+
+	No. of CHARACTERS -> 1021
+
+The Hedge Knight, pages - 164
+	API URL -> https://www.anapioficeandfire.com/api/books/4
+
+	ISBN -> 978-0976401100
+
+	PUBLISHER -> Dabel Brothers Publishing
+
+	No. of CHARACTERS -> 54
+
+A Feast for Crows, pages - 784
+	API URL -> https://www.anapioficeandfire.com/api/books/5
+
+	ISBN -> 978-0553801507
+
+	PUBLISHER -> Bantam Books
+
+	No. of CHARACTERS -> 1241
+
+The Sworn Sword, pages - 152
+	API URL -> https://www.anapioficeandfire.com/api/books/6
+
+	ISBN -> 978-0785126508
+
+	PUBLISHER -> Marvel
+
+	No. of CHARACTERS -> 84
+
+The Mystery Knight, pages - 416
+	API URL -> https://www.anapioficeandfire.com/api/books/7
+
+	ISBN -> 978-0765360267
+
+	PUBLISHER -> Tor Fantasy
+
+	No. of CHARACTERS -> 71
+
+A Dance with Dragons, pages - 1040
+	API URL -> https://www.anapioficeandfire.com/api/books/8
+
+	ISBN -> 978-0553801477
+
+	PUBLISHER -> Bantam Books
+
+	No. of CHARACTERS -> 861
+
+The Princess and the Queen, pages - 784
+	API URL -> https://www.anapioficeandfire.com/api/books/9
+
+	ISBN -> 978-0765332066
+
+	PUBLISHER -> Tor Books
+
+	No. of CHARACTERS -> 57
+
+The Rogue Prince, pages - 832
+	API URL -> https://www.anapioficeandfire.com/api/books/10
+
+	ISBN -> 978-0345537263
+
+	PUBLISHER -> Bantam Books
+
+	No. of CHARACTERS -> 55
+

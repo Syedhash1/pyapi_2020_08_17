@@ -54,6 +54,9 @@ def main():
     print("Challenge step \n \n")
 
     print(f'People in space: {helmetson["number"]}')
+    
+    print('People in space: ' + str(helmetson["number"]))
+    
     for astro in helmetson["people"]:
     # display ONLY the name value associated with astro
      print(f'{astro["name"]} on the ISS')
